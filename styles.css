@@ -396,7 +396,7 @@ p{
         flex-wrap: wrap;
     }
 
-    #section2 h2, #section h2{
+    #section2 h2, #section3 h2{
         flex-basis: 100%;
     }
 
